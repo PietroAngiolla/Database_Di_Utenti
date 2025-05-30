@@ -22,3 +22,7 @@ h1{
 .list-group-horizontal{
     flex-wrap: wrap;
 }
+
+.list-group-item div{
+    padding: 5px 0;
+}
